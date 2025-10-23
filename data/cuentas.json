@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "isActive": true,
+        "picture": "https://randomuser.me/api/portraits/women/1.jpg",
+        "balance": 1500.5,
+        "client": "Ana López",
+        "gender": "female"
+    },
+    {
+        "id": "2",
+        "isActive": false,
+        "picture": "https://randomuser.me/api/portraits/men/2.jpg",
+        "balance": 250.0,
+        "client": "Carlos Pérez",
+        "gender": "male"
+    },
+    {
+        "id": "3",
+        "isActive": true,
+        "picture": "https://randomuser.me/api/portraits/women/3.jpg",
+        "balance": 3200.75,
+        "client": "María Gómez",
+        "gender": "female"
+    },
+    {
+        "id": "4",
+        "isActive": true,
+        "picture": "https://randomuser.me/api/portraits/men/4.jpg",
+        "balance": 410.0,
+        "client": "Juan Díaz",
+        "gender": "male"
+    },
+    {
+        "id": "5",
+        "isActive": false,
+        "picture": "https://randomuser.me/api/portraits/women/5.jpg",
+        "balance": 980.99,
+        "client": "Lucía Fernández",
+        "gender": "female"
+    },
+    {
+        "id": "6",
+        "isActive": true,
+        "picture": "https://randomuser.me/api/portraits/men/6.jpg",
+        "balance": 120.0,
+        "client": "Pedro Castillo",
+        "gender": "male"
+    },
+    {
+        "id": "7",
+        "isActive": true,
+        "picture": "https://randomuser.me/api/portraits/women/7.jpg",
+        "balance": 560.45,
+        "client": "Sofía Morales",
+        "gender": "female"
+    }
+]
